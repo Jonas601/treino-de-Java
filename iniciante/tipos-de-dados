@@ -3,7 +3,7 @@
         String nome = "jonas";
         int idade = 21;
         double peso = 68.90;
-        float altura = 1.70f;
+        float altura = 1.70f;//é melhor double que vai demonstrar até o zero
         boolean estudante = true;
         char sexo = 'm';
 
