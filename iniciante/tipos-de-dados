@@ -1,0 +1,15 @@
+ class Dados {
+    public static void main (String[] args){
+        String nome = "jonas";//para textos e frases
+        int idade = 21;//para números inteiros sem casa decimais
+        double peso = 68.90; //para números decimais
+        boolean estudante = true;//para valores lógicos (verdadeiro ou falso)
+        char sexo = 'm';//armazena apenas um caractere, como letra ou símbolo
+
+        System.out.println("meu nome é " + nome); //variaveis sendo exibidas no console e concatenadas com texto explicativo
+        System.out.println("minha idade é " + idade);
+        System.out.println("meu peso é " + peso);
+        System.out.println("sou estudante? " + estudante);
+        System.out.println("meu sexo é " + sexo);
+    }
+ }
