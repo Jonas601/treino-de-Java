@@ -1,2 +1,7 @@
-# treino-de-Java
-apenas para um treino continuo de Java
+#Treino-de-Java
+conteúdo estudado
+- Variáveis
+- Condicionais
+- Laços de repetição
+- Métodos
+- Entrada de dados com Scanner
